@@ -34,7 +34,7 @@ configure<org.jlleitschuh.gradle.ktlint.KtlintExtension> {
 dependencies {
     protobuf(files("api-interface-definitions/protos/"))
     testImplementation("junit:junit:4.13.2")
-    testImplementation("com.squareup.okhttp3:mockwebserver:4.10.0")
+    testImplementation("com.squareup.okhttp3:mockwebserver:4.12.0")
     testImplementation("io.mockk:mockk:1.13.2")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
     testImplementation("io.grpc:grpc-testing:1.66.0")
