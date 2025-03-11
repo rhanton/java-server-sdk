@@ -44,7 +44,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
     implementation("com.github.ua-parser:uap-java:1.6.1")
     implementation("com.statsig:ip3country:0.1.5")
-    implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+    implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     // GRPC Dependencies
     implementation("io.grpc:grpc-netty-shaded:1.66.0")
