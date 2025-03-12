@@ -35,7 +35,7 @@ dependencies {
     protobuf(files("api-interface-definitions/protos/"))
     testImplementation("junit:junit:4.13.2")
     testImplementation("com.squareup.okhttp3:mockwebserver:4.12.0")
-    testImplementation("io.mockk:mockk:1.13.2")
+    testImplementation("io.mockk:mockk:1.13.17")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.6.4")
     testImplementation("io.grpc:grpc-testing:1.71.0")
     implementation("com.google.code.gson:gson:2.9.0")
