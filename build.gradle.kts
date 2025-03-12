@@ -10,7 +10,7 @@ plugins {
     id("com.github.johnrengelman.shadow") version "7.1.2"
     id("org.jlleitschuh.gradle.ktlint") version "11.0.0"
     id("maven-publish")
-    id("com.vanniktech.maven.publish") version "0.22.0"
+    id("com.vanniktech.maven.publish") version "0.31.0"
     id("com.google.protobuf") version "0.9.4"
     id("org.gradle.test-retry") version "1.2.1"
 }
