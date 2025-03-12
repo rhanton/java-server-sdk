@@ -8,7 +8,7 @@ plugins {
     kotlin("jvm") version "1.8.22"
     idea
     id("com.github.johnrengelman.shadow") version "7.1.2"
-    id("org.jlleitschuh.gradle.ktlint") version "11.0.0"
+    id("org.jlleitschuh.gradle.ktlint") version "12.2.0"
     id("maven-publish")
     id("com.vanniktech.maven.publish") version "0.22.0"
     id("com.google.protobuf") version "0.9.4"
